@@ -1,0 +1,6 @@
+[submodule "day0"]
+	path = day0
+	url = git@github.com:yoophglup/day0.git
+[submodule "day1"]
+	path = day1
+	url = git@github.com:yoophglup/day1.git

@@ -4,3 +4,6 @@
 [submodule "day1"]
 	path = day1
 	url = git@github.com:yoophglup/day1.git
+[submodule "day2"]
+	path = day2
+	url = git@github.com:yoophglup/day2.git
